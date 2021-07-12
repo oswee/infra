@@ -1,0 +1,23 @@
+---
+roles:
+  - src: git@github.com:dzintars/ansible-role-dhcpd.git
+    scm: git
+    version: "v0.0.1-alpha"
+  - src: git@github.com:dzintars/ansible-role-tftp.git
+    scm: git
+    version: "v0.0.1-alpha"
+  - src: git@github.com:dzintars/ansible-role-bind.git
+    scm: git
+    version: "v0.0.1-alpha"
+  - src: git@github.com:dzintars/ansible-role-haproxy.git
+    scm: git
+    version: "v0.0.1-alpha"
+  - src: git@github.com:dzintars/ansible-role-matchbox.git
+    scm: git
+    version: "v0.0.1-alpha"
+  - src: git@github.com:dzintars/ansible-role-ipxe.git
+    scm: git
+    version: "v0.0.1-alpha"
+  - src: git@github.com:dzintars/ansible-role-ocp-ignition.git
+    scm: git
+    version: "v0.0.1-alpha"
